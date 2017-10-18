@@ -15,6 +15,7 @@
 		94A2AD271F9059C2009AD58C /* Instantiate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94A2AD261F9059C2009AD58C /* Instantiate.framework */; };
 		94A2AD291F9059CE009AD58C /* InstantiateStandard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94A2AD281F9059CE009AD58C /* InstantiateStandard.framework */; };
 		94A2AD2C1F906794009AD58C /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A2AD2B1F906794009AD58C /* ViewController2.swift */; };
+		94ADCDD91F96EA0800596D93 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94ADCDD81F96EA0800596D93 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		94A2AD261F9059C2009AD58C /* Instantiate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Instantiate.framework; path = Carthage/Build/iOS/Instantiate.framework; sourceTree = "<group>"; };
 		94A2AD281F9059CE009AD58C /* InstantiateStandard.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = InstantiateStandard.framework; path = Carthage/Build/iOS/InstantiateStandard.framework; sourceTree = "<group>"; };
 		94A2AD2B1F906794009AD58C /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		94ADCDD81F96EA0800596D93 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				94A2AD131F9058B7009AD58C /* AppDelegate.swift */,
 				94A2AD151F9058B7009AD58C /* ViewController.swift */,
 				94A2AD2B1F906794009AD58C /* ViewController2.swift */,
+				94ADCDD81F96EA0800596D93 /* ViewController3.swift */,
 				94A2AD171F9058B7009AD58C /* ViewController.storyboard */,
 				94A2AD1A1F9058B7009AD58C /* Assets.xcassets */,
 				94A2AD1C1F9058B7009AD58C /* LaunchScreen.storyboard */,
@@ -176,6 +179,7 @@
 			files = (
 				94A2AD161F9058B7009AD58C /* ViewController.swift in Sources */,
 				94A2AD141F9058B7009AD58C /* AppDelegate.swift in Sources */,
+				94ADCDD91F96EA0800596D93 /* ViewController3.swift in Sources */,
 				94A2AD2C1F906794009AD58C /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

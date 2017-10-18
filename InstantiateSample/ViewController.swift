@@ -28,5 +28,10 @@ class ViewController: UIViewController, StoryboardInstantiatable {
         self.present(vc, animated: true, completion: nil)
     }
     
+    @IBAction func tapButton2(_ sender: Any) {
+        let label = "Hello VC3"
+        let vc = ViewController3(with: label)
+        self.present(vc, animated: true, completion: nil)
+    }
 }
 
