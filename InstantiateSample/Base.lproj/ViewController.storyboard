@@ -45,37 +45,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
         </scene>
-        <!--View Controller2-->
-        <scene sceneID="ZmD-fh-exe">
-            <objects>
-                <viewController storyboardIdentifier="ViewController2" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Nk9-jG-758" customClass="ViewController2" customModule="InstantiateSample" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="f5s-04-6xZ">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nPb-Jy-CKa">
-                                <rect key="frame" x="0.0" y="121" width="375" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <constraints>
-                            <constraint firstItem="nPb-Jy-CKa" firstAttribute="leading" secondItem="lxI-zV-330" secondAttribute="leading" id="3z1-IY-qHf"/>
-                            <constraint firstItem="nPb-Jy-CKa" firstAttribute="top" secondItem="lxI-zV-330" secondAttribute="top" constant="101" id="KnG-Jc-MMj"/>
-                            <constraint firstItem="lxI-zV-330" firstAttribute="trailing" secondItem="nPb-Jy-CKa" secondAttribute="trailing" id="LsY-Tf-jeq"/>
-                        </constraints>
-                        <viewLayoutGuide key="safeArea" id="lxI-zV-330"/>
-                    </view>
-                    <connections>
-                        <outlet property="label" destination="nPb-Jy-CKa" id="N3J-zt-dbT"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="7XH-wl-zFb" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2313" y="33"/>
-        </scene>
         <!--View Controller3-->
         <scene sceneID="4yY-OX-zWh">
             <objects>

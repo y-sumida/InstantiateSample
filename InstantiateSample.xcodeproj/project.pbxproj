@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9451DDA81FA7039700CDB50B /* ViewController2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9451DDA71FA7039700CDB50B /* ViewController2.storyboard */; };
 		94A2AD141F9058B7009AD58C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A2AD131F9058B7009AD58C /* AppDelegate.swift */; };
 		94A2AD161F9058B7009AD58C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A2AD151F9058B7009AD58C /* ViewController.swift */; };
 		94A2AD191F9058B7009AD58C /* ViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94A2AD171F9058B7009AD58C /* ViewController.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9451DDA71FA7039700CDB50B /* ViewController2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewController2.storyboard; sourceTree = "<group>"; };
 		94A2AD101F9058B7009AD58C /* InstantiateSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstantiateSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94A2AD131F9058B7009AD58C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94A2AD151F9058B7009AD58C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				94A2AD2B1F906794009AD58C /* ViewController2.swift */,
 				94ADCDD81F96EA0800596D93 /* ViewController3.swift */,
 				94A2AD171F9058B7009AD58C /* ViewController.storyboard */,
+				9451DDA71FA7039700CDB50B /* ViewController2.storyboard */,
 				94A2AD1A1F9058B7009AD58C /* Assets.xcassets */,
 				94A2AD1C1F9058B7009AD58C /* LaunchScreen.storyboard */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				94A2AD1E1F9058B7009AD58C /* LaunchScreen.storyboard in Resources */,
 				94A2AD1B1F9058B7009AD58C /* Assets.xcassets in Resources */,
+				9451DDA81FA7039700CDB50B /* ViewController2.storyboard in Resources */,
 				94A2AD191F9058B7009AD58C /* ViewController.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
